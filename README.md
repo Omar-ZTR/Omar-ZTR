@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Ahmed Amami**!
+# 👋 Hi, I'm **Omar Zouiter
 
 I'm a **Full Stack Developer** and **Software Engineer** based in **Tunisia**, with a passion for creating innovative solutions through **web** and **mobile development**.
 
