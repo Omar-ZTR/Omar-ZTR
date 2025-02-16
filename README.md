@@ -34,7 +34,7 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 ## 📬 Get in Touch
 
 - Email: [omarzouiter97@gmail.com](mailto:omarzouiter97@gmail.com)
-- LinkedIn: [Omar-Zouiter](www.linkedin.com/in/omar-zouiter-a51771279)
+- LinkedIn: [Omar-Zouiter]([www.linkedin.com/in/omar-zouiter-a51771279](https://www.linkedin.com/in/omar-zouiter-a51771279/))
 
 ✨ Feel free to explore my repositories and connect with me for exciting collaborations!
 
