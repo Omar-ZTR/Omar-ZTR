@@ -18,7 +18,7 @@ I'm always looking to improve my skills and expand my knowledge:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
@@ -33,8 +33,8 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 
 ## 📬 Get in Touch
 
-- Email: [Amamiahmed@hotmail.com](mailto:Amamiahmed@hotmail.com)
-- LinkedIn: [Ahmed-Amami](https://www.linkedin.com/in/ahmed-amami)
+- Email: [omarzouiter97@gmail.com](mailto:omarzouiter97@gmail.com)
+- LinkedIn: [Omar-Zouiter](www.linkedin.com/in/omar-zouiter)
 
 ✨ Feel free to explore my repositories and connect with me for exciting collaborations!
 
@@ -42,4 +42,4 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAmami&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarZouiter&show_icons=true&hide_title=true&count_private=true&hide=prs)
