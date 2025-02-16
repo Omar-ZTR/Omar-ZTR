@@ -42,4 +42,4 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarZouiter&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-ZTRr&show_icons=true&hide_title=true&count_private=true&hide=prs)
