@@ -46,4 +46,4 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 
 ## 📈 GitHub Contributions
 
-![Ahmed's GitHub Contributions](https://github.com/AhmedAmami/github-readme-stats/blob/master/generated/overview.svg)
+![Ahmed's GitHub Contributions](https://github-readme-stats.vercel.app/api/generate?username=AhmedAmami&count_private=true&show_icons=true)
