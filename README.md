@@ -43,7 +43,3 @@ If you're interested in working together or sharing ideas, feel free to reach ou
 ## 📊 GitHub Stats
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAmami&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 📈 GitHub Contributions
-
-![Ahmed's GitHub Contributions](https://github-readme-stats.vercel.app/api/generate?username=AhmedAmami&count_private=true&show_icons=true)
